@@ -1,5 +1,7 @@
 # 星锈： Rust 明星项目汇总
 
+持续更新ing!
+
 [English introduction](README.md)
 
 盘点国内外优秀的 Rust 开源项目，和 [awesome-rust](https://awesome-rust.com/) 有所不同。

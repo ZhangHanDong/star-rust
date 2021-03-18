@@ -1,5 +1,7 @@
 # Star Rust
 
+Continuously Updating!
+
 [中文介绍](README_ZH.md)
 
 Inventory of the world’s outstanding Rust open source projects, which are different from [awesome-rust](https://awesome-rust.com/).
