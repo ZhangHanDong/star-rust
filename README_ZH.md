@@ -27,42 +27,35 @@
     - [3D 游戏引擎](#3DGameEngine)
 
 
+## 数据处理
+
 ---
 
 ### Database
 
-**tikv/tikv**
+**[tikv/tikv](https://github.com/tikv/tikv)**
 
-TiKV 是一个分布式事务型的键值数据库，提供了满足ACID 约束的分布式事务接口，并且通过Raft 协议 保证了多副本数据一致性以及高可用。
-
-- [Repo](https://github.com/tikv/tikv)
-- [了解更多](zh/Data/tikv.md)
-
+TiKV 是一个分布式事务型的键值数据库，提供了满足ACID 约束的分布式事务接口，并且通过Raft 协议 保证了多副本数据一致性以及高可用。[了解更多](zh/Data/tikv.md)
 
 ### Observability
 
-**timberio/vector**
+**[timberio/vector](https://github.com/timberio/vector)**
 
-高性能，高可靠性的可观察性数据管道。
+高性能，高可靠性的可观察性数据管道。[了解更多](zh/Data/vector.md)
 
-- [Repo](https://github.com/timberio/vector)
-- [了解更多](zh/Data/vector.md)
 
+## 游戏引擎
+
+---
 
 ### Data-DrivenGameEngine
 
-**bevyengine/bevy**
+**[bevyengine/bevy](https://github.com/bevyengine/bevy)**
 
-A refreshingly simple data-driven game engine built in Rust.
-
-- [Repo](https://github.com/bevyengine/bevy)
-- [Learn More](en/GameEngine/bevy.md)
+令人耳目一新的数据驱动游戏引擎。[了解更多](zh/GameEngine/bevy.md)
 
 ### 3DGameEngine
 
-**mrDIMAS/rg3d**
+**[mrDIMAS/rg3d](https://github.com/mrDIMAS/rg3d)**
 
-3d game engine written in Rust.
-
-- [Repo](https://github.com/mrDIMAS/rg3d)
-- [Learn More](en/GameEngine/rg3d.md)
+一个 3D 游戏引擎。[了解更多](zh/GameEngine/rg3d.md)

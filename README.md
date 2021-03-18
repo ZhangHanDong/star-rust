@@ -25,42 +25,35 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 - [Game Engine](#GameEngine)
     - [Data-Driven Game Engine](#Data-DrivenGameEngine)
     - [3D](#3DGameEngine)
+
+## Data
+
 ---
 
 ### Database
 
-**tikv/tikv**
+**[tikv/tikv](https://github.com/tikv/tikv)**
 
-Distributed transactional key-value database, originally created to complement TiDB.
-
-- [Repo](https://github.com/tikv/tikv)
-- [Learn More](en/Data/tikv.md)
-
+Distributed transactional key-value database, originally created to complement TiDB. [Learn More](en/Data/tikv.md)
 
 ### Observability
 
-**timberio/vector**
+**[timberio/vector](https://github.com/timberio/vector)**
 
-High-performance, high-reliability observability data pipeline.
+High-performance, high-reliability observability data pipeline. [Learn More](en/Data/vector.md)
 
-- [Repo](https://github.com/timberio/vector)
-- [Learn More](en/Data/vector.md)
 
+## Game Engine
+---
 
 ### Data-DrivenGameEngine
 
-**bevyengine/bevy**
+**[bevyengine/bevy](https://github.com/bevyengine/bevy)**
 
-A refreshingly simple data-driven game engine built in Rust.
-
-- [Repo](https://github.com/bevyengine/bevy)
-- [Learn More](en/GameEngine/bevy.md)
+A refreshingly simple data-driven game engine built in Rust. [Learn More](en/GameEngine/bevy.md)
 
 ### 3DGameEngine
 
-**mrDIMAS/rg3d**
+**[mrDIMAS/rg3d](https://github.com/mrDIMAS/rg3d)**
 
-3d game engine written in Rust.
-
-- [Repo](https://github.com/mrDIMAS/rg3d)
-- [Learn More](en/GameEngine/rg3d.md)
+3d game engine written in Rust. [Learn More](en/GameEngine/rg3d.md)
