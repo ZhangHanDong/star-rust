@@ -21,12 +21,21 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Table of contents
 
+
 - [Data](#data)
     - [Database](#database)
     - [Observability](#observability)
 - [Game Engine](#GameEngine)
     - [Data-Driven Game Engine](#Data-DrivenGameEngine)
     - [3D](#3DGameEngine)
+- [Library](#lib)
+- [Framework](#framework)
+- [Tools](#tools)
+- [Embedded](#embedded)
+- [WebAssembly](#wasm)
+    - [Front-end WASM](#front-end-wasm)
+    - [WebAssembly System Interface(WASI)](#wasi)
+
 
 ## Data
 
