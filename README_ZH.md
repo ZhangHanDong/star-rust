@@ -2,6 +2,14 @@
 
 持续更新ing!
 
+## Rust 2021 行业调研报告
+
+[Rust 2021 行业调研报告](./2021-reports/Rust-2021-reports.md)
+
+下载： [Rust 2021 行业调研报告.pdf](./2021-reports/Rust行业调研报告-20210623-latest.pdf)
+
+---
+
 [English introduction](README.md)
 
 盘点国内外优秀的 Rust 开源项目，和 [awesome-rust](https://awesome-rust.com/) 有所不同。
